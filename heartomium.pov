@@ -59,18 +59,6 @@ plane{ <0,1,0>, 0
 //---------------------------------------------------------------------------
 //---------------------------- objects in scene ----------------------------
 //---------------------------------------------------------------------------
-/*
-// sample sphere
-sphere { <0,0,0>, 1 
-         texture { Polished_Chrome
-                   //pigment{ color Red } // rgb< 1, 0.0, 0.0>}
-                   //finish { phong 1 reflection {0.40 metallic 0.5}}
-                 } // end of texture 
-
-          scale<1,1,1>  rotate<0,0,0>  translate<0,1.35,0>  
-       }  // end of sphere ----------------------------------- 
-
-*/
 
 #declare meow_heart=
 isosurface{
